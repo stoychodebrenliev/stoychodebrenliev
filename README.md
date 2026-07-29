@@ -2,7 +2,7 @@
 
 ### Junior Front-End / JavaScript Developer based in Düsseldorf, Germany 🇩🇪
 
-I'm a Junior JavaScript Developer with a strong focus on **Front-End Development** and a growing interest in **Back-End Development**.
+I'm a Junior JavaScript Developer with a strong foundation in **Front-End Development**, currently expanding into **Back-End and Full-Stack Development**.
 
 My main experience so far is with **HTML, CSS, JavaScript and TypeScript**. I have completed training in JavaScript Basics, Fundamentals, Advanced and Applications, as well as HTML/CSS and TypeScript.
 
@@ -135,6 +135,8 @@ A full-stack blog web application built while expanding my back-end development 
 **Technologies:**
 
 `JavaScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Handlebars` `JWT` `bcrypt` `Zod`
+
+🔗 **Repository:** [World Cup 2026 Tracker](https://github.com/stoychodebrenliev/mind_blog)
 
 ---
 
