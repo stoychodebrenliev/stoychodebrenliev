@@ -85,7 +85,34 @@ Currently:
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+### ⚽ World Cup 2026 Tracker
+
+A full-stack web application for managing and tracking World Cup matches.
+
+**Main features:**
+
+- User registration, login and logout
+- Password hashing with bcrypt
+- JWT authentication using HTTP-only cookies
+- Create, read, edit and delete matches
+- Ownership-based authorization
+- Like functionality with many-to-many relations
+- Latest matches displayed dynamically
+- REST API for top-scoring matches
+- Dynamic Report page using Fetch API
+- Form validation with Zod
+- PostgreSQL database with Prisma ORM
+- Controller / Service / Repository architecture
+
+**Technologies:**
+
+`JavaScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Handlebars` `REST API` `JWT` `bcrypt` `Zod`
+
+🔗 **Repository:** [World Cup 2026 Tracker](https://github.com/stoychodebrenliev/JS-Back-End-Exam-Preparation-World-Cup-Tracker)
+
+---
 
 ### 📝 Mind Blog
 
