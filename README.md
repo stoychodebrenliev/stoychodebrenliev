@@ -136,7 +136,7 @@ A full-stack blog web application built while expanding my back-end development 
 
 `JavaScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Handlebars` `JWT` `bcrypt` `Zod`
 
-🔗 **Repository:** [World Cup 2026 Tracker](https://github.com/stoychodebrenliev/mind_blog)
+🔗 **Repository:** [Mind-Blog](https://github.com/stoychodebrenliev/mind_blog)
 
 ---
 
